@@ -1,9 +1,9 @@
 field,index,display
-objectid,true,true
+objectid,false,false
 title,true,true
-identifier,true,true
+identifier,false,false
 date,true,true
-creator,true,false
+creator,true,true
 description,true,true
 subject,true,true
 type,true,false
