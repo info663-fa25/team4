@@ -3,5 +3,5 @@ date,Date,,,Date Created
 description,,true,,,Description
 creator,Creator,,,
 subject,,true
-location,,btn,,,Location Depicted
+location,,true,,,Location Depicted
 identifier,,,true,Identifier
