@@ -1,10 +1,10 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,false,,DCTERMS.title,headline
-creator,Creator,false,,DCTERMS.creator,creator
-date,Date Created,true,,DCTERMS.date,dateCreated
+creator,Host,false,,DCTERMS.creator,creator
+assetdate,Episode Release Date,true,,DCTERMS.date,dateCreated
 description,Description,true,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,false,,,contentLocation
+location,Access URL,false,,,contentLocation
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source,,,,
