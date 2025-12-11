@@ -8,7 +8,5 @@ description,true,true
 subject,true,true
 type,true,false
 instantiationduration,true,true
-object_location,true,true
 language,true,true
 contributor,true,true
-display_template,true,true
