@@ -5,6 +5,7 @@ pbcorecontributor,Guest,true,,DCTERMS.contributor,contributor
 pbcoreassetdate,Episode Release Date,true,,DCTERMS.date,dateCreated
 pbcoredescription,Description,true,,DCTERMS.description,description
 pbcoresubject,Subjects,true,,DCTERMS.subject,keywords
+instantiationduration,duration,false,,DCTERMS.extent,extent
 instantiationlocation,Access URL,false,,,contentLocation
 instantiationidentifier,Digital ID,true,,,
 Unique Episode Identifier,Handle ID,false,,,
