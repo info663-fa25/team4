@@ -1,6 +1,7 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 pbcoretitle,Title,false,,DCTERMS.title,headline
 pbcorecreator,Host,false,,DCTERMS.creator,creator
+pbcorecontributor,Guest,true,,DCTERMS.contributor,contributor
 pbcoreassetdate,Episode Release Date,true,,DCTERMS.date,dateCreated
 pbcoredescription,Description,true,,DCTERMS.description,description
 pbcoresubject,Subjects,true,,DCTERMS.subject,keywords
@@ -8,7 +9,4 @@ instantiationlocation,Access URL,false,,,contentLocation
 instantiationidentifier,Digital ID,true,,,
 Unique Episode Identifier,Handle ID,false,,,
 instantiationidentifier,Wikidata QID,false,,,
-type,Type,,,DCTERMS.type,
-format,Format,false,,,encodingFormat
 instantiationlanguage,Language,true,,DCTERMS.language,
-
