@@ -1,5 +1,5 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-pbcoretitle,Title,false,,DCTERMS.title,headline
+pbcoretitle,Title,true,,DCTERMS.title,headline
 pbcorecreator,Host,false,,DCTERMS.creator,creator
 pbcorecontributor,Guest,true,,DCTERMS.contributor,contributor
 pbcoreassetdate,Episode Release Date,true,,DCTERMS.date,dateCreated
