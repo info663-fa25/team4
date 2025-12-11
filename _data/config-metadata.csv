@@ -1,15 +1,14 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-title,Title,false,,DCTERMS.title,headline
-creator,Host,false,,DCTERMS.creator,creator
-assetdate,Episode Release Date,true,,DCTERMS.date,dateCreated
-description,Description,true,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
-location,Access URL,false,,,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
-source,Source,,,,
-identifier,Source Identifier,false,,,
+pbcoretitle,Title,false,,DCTERMS.title,headline
+pbcorecreator,Host,false,,DCTERMS.creator,creator
+pbcoreassetdate,Episode Release Date,true,,DCTERMS.date,dateCreated
+pbcoredescription,Description,true,,DCTERMS.description,description
+pbcoresubject,Subjects,true,,DCTERMS.subject,keywords
+instantiationlocation,Access URL,false,,,contentLocation
+instantiationidentifier,Digital ID,true,,,
+Unique Episode Identifier,Handle ID,false,,,
+instantiationidentifier,Wikidata QID,false,,,
 type,Type,,,DCTERMS.type,
 format,Format,false,,,encodingFormat
-language,Language,true,,DCTERMS.language,
-rightsstatement,,,,DCTERMS.rights,license
+instantiationlanguage,Language,true,,DCTERMS.language,
+
