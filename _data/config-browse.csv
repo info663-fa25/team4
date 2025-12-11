@@ -2,6 +2,6 @@ field,display_name,true,sort_name,facet_name
 date,Date,,,Date Created
 description,Description,,true,
 creator,Creator,,true,
-subject,,true
-location,,hidden,,,Location Depicted
+subject,,true,,
+location,,hidden,,Location Depicted
 identifier,,,true,Identifier
