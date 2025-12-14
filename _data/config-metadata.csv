@@ -7,7 +7,7 @@ description,Description,true,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
 instantiationduration,duration,false,,DCTERMS.extent,duration
 object_location,Access URL,false,,,contentLocation
-object_id,Digital ID,true,,,
+objectid,Digital ID,true,,,
 identifier,Handle ID,false,,,
 identifier,Wikidata QID,false,,,
 language,Language,true,,DCTERMS.language,
