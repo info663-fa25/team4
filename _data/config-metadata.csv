@@ -6,8 +6,8 @@ date,Episode Release Date,true,,DCTERMS.date,dateCreated
 description,Description,true,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
 instantiationduration,duration,false,,DCTERMS.extent,duration
-object_location,Access URL,false,,,contentLocation
+object_location,Access URL,true,,,contentLocation
 objectid,Digital ID,true,,,
-identifier,Handle ID,false,,,
-identifier,Wikidata QID,false,,,
+identifier,Handle ID,true,,,
+identifier,Wikidata QID,true,,,
 language,Language,true,,DCTERMS.language,
